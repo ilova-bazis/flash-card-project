@@ -9,5 +9,5 @@
 1. Для работы с CSV вам понадобится библиотека **pandas**. Для работы со словами вы можете извлечь данные в формате словаря и создать структуру списка слов как на этом примере: 
 `[ {"french_word": "english_word"}, {"french_word2": "english_word2"}, {"french_word3": "english_word3"}]`
 
-### Документация
+### Документация pandas
 - [https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_dict.html](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_dict.html)
